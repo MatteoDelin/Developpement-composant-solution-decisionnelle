@@ -1,6 +1,7 @@
 # Developpement-composant-solution-decisionnelle
 
-Participant :
+## Participant :
+
 * Mattéo Delin
 * Sharon Guedj
 * Antoine Maurin
