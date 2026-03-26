@@ -4,5 +4,5 @@
 
 * Mattéo Delin
 * Sharon Guedj
-* Antoine Maurin
+* Antoine Maurin viré
 * Quentin Zavagno
