@@ -1,4 +1,4 @@
-age-insee-2020 : 
+age-insee-2020 :
 
 * permet de connaitre dans chaque com/dept/reg/métropole/France le nombre de personnes de plus de 65 ans chez les hommes et les femmes
 * Segmentation entre 80+ > résident court termes
@@ -29,4 +29,11 @@ donnes-communes :
 Referentiel Geographique INSEE :
 
 * Bcp d'info sur le découpage de la France en région / dept / canton / commune...
+
+
+
+ircom\_communes\_complet\_revenus\_2021 :
+
+* Nombre de foyer fiscal retraité
+* Valeur total des retraites de tous les foyers fiscal de chaque commune
 
